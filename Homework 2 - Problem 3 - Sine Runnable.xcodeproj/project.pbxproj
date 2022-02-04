@@ -17,6 +17,10 @@
 		522DF3C127ACCEEF009B33D9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522DF39727ACCEEC009B33D9 /* ContentView.swift */; };
 		522DF3C227ACCEEF009B33D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 522DF39827ACCEEF009B33D9 /* Assets.xcassets */; };
 		522DF3C327ACCEEF009B33D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 522DF39827ACCEEF009B33D9 /* Assets.xcassets */; };
+		522DF3D327ACCF42009B33D9 /* Sine Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522DF3D227ACCF42009B33D9 /* Sine Function.swift */; };
+		522DF3D427ACCF42009B33D9 /* Sine Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522DF3D227ACCF42009B33D9 /* Sine Function.swift */; };
+		522DF3D527ACCF42009B33D9 /* Sine Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522DF3D227ACCF42009B33D9 /* Sine Function.swift */; };
+		522DF3D627ACCF42009B33D9 /* Sine Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522DF3D227ACCF42009B33D9 /* Sine Function.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,7 @@
 		522DF3B627ACCEEF009B33D9 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		522DF3BA27ACCEEF009B33D9 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		522DF3BC27ACCEEF009B33D9 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		522DF3D227ACCF42009B33D9 /* Sine Function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sine Function.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +105,7 @@
 				522DF39627ACCEEC009B33D9 /* Homework_2___Problem_3___Sine_RunnableApp.swift */,
 				522DF39727ACCEEC009B33D9 /* ContentView.swift */,
 				522DF39827ACCEEF009B33D9 /* Assets.xcassets */,
+				522DF3D227ACCF42009B33D9 /* Sine Function.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -300,6 +306,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				522DF3C027ACCEEF009B33D9 /* ContentView.swift in Sources */,
+				522DF3D327ACCF42009B33D9 /* Sine Function.swift in Sources */,
 				522DF3BE27ACCEEF009B33D9 /* Homework_2___Problem_3___Sine_RunnableApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -309,6 +316,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				522DF3C127ACCEEF009B33D9 /* ContentView.swift in Sources */,
+				522DF3D427ACCF42009B33D9 /* Sine Function.swift in Sources */,
 				522DF3BF27ACCEEF009B33D9 /* Homework_2___Problem_3___Sine_RunnableApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -318,6 +326,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				522DF3B127ACCEEF009B33D9 /* Tests_iOSLaunchTests.swift in Sources */,
+				522DF3D527ACCF42009B33D9 /* Sine Function.swift in Sources */,
 				522DF3AF27ACCEEF009B33D9 /* Tests_iOS.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -327,6 +336,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				522DF3BD27ACCEEF009B33D9 /* Tests_macOSLaunchTests.swift in Sources */,
+				522DF3D627ACCF42009B33D9 /* Sine Function.swift in Sources */,
 				522DF3BB27ACCEEF009B33D9 /* Tests_macOS.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
